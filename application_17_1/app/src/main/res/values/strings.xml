@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">application17_1</string>
+    <string name="login">your login</string>
+    <string name="password">your password</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+</resources>
